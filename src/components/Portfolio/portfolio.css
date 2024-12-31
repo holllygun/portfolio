@@ -1,0 +1,13 @@
+.App{
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+.project-list {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 10px; 
+    justify-content: center;
+    min-height: 300px; 
+  }
